@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+span {
+    margin: 10px;
+    border-right: 10px;
+}
